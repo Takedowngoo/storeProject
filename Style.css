@@ -73,3 +73,8 @@ nav li:hover .dropdown-content{
     width:300px;
     min-height:200px;
 }
+
+/*fake style*/
+.fake {
+    color:white;
+}
